@@ -1,2 +1,2 @@
-# tonloot-contracts
-Contract code for the Tonloot metaverse
+# Everloot-contracts
+Contract code for the everloot metaverse
